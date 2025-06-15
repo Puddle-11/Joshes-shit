@@ -1,0 +1,9 @@
+.button{
+    color: blueviolet;
+    transition: 100ms;
+        opacity: 0.1;
+
+}
+.button:hover{
+    opacity: 1;
+}
